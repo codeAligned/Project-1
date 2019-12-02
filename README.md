@@ -2,7 +2,7 @@
 This is a project that exploring the data from Airbnb Seattle using data analysis methods.
 
 # Installation
-There's no necessary libraries to run the code beyong the Anaconda distribution of Python. Also, the code used plotly to show geographical plotting.
+The code used plotly to show geographical plotting. Other than that, there's no more necessary libraries to tun the code beyond the Anaconda distribution of Python.
 
 # Project Motivation
 In this project, it describes 3 questions about the Airbnb 2016 Seattle dataset:
