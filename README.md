@@ -14,4 +14,4 @@ In this project, it describes 3 questions about the Airbnb 2016 Seattle dataset:
 There is a Jupyter notebook for the code showcase work related to above questions. The file listings.csv is the given Airbnb dataset for the project. 
 
 # Analysis and Results
-The link of the Medium post is: https://medium.com/@matthewliruizhe1995/what-you-should-know-about-airbnb-listings-in-seattle-d9967fb9a002
+The link of the Medium post is [here](https://medium.com/@matthewliruizhe1995/what-you-should-know-about-airbnb-listings-in-seattle-d9967fb9a002)
